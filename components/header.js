@@ -16,9 +16,9 @@ const styles = StyleSheet.create({
   },
   headerText: {
     fontSize: 30,
-    fontWeight: 'bold',
     textAlign: 'center',
-    color: '#F2E8C6'
+    color: '#F2E8C6',
+    fontFamily: 'RubikIso'
   }
 })
 
